@@ -12,3 +12,6 @@ hist(a)
 a <- rbinom(10000, 20, 0.5)
 
 hist(a)
+
+
+# comentario aleatorio no arquivo codigo 2
